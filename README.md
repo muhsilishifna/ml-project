@@ -16,6 +16,12 @@ A Streamlit-based web application is developed to allow users to upload datasets
 
 
 ##  Dataset Description
+The dataset used in this project is included **inside the repository**.
+
+**Dataset file name:**  
+`india_road_accident.csv`
+use this dataset for prediction and output
+
 The dataset contains historical road accident records with features such as:
 - Year
 - State / Region
